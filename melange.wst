@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSets>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1421944027600_2" label="Melange" name="Melange">
+<item elementID="=fr.inria.diverse.melange" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=fr.inria.diverse.melange.lib" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=fr.inria.diverse.melange.logging" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=fr.inria.diverse.melange.metamodel" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/fr.inria.diverse.melange.p2updatesite" type="4"/>
+<item elementID="=fr.inria.diverse.melange.resource" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/fr.inria.diverse.melange.root" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/fr.inria.diverse.melange.sdk" type="4"/>
+<item elementID="=fr.inria.diverse.melange.tests" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=fr.inria.diverse.melange.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1421944030206_3" label="Metamodels" name="Metamodels">
+<item elementID="=fr.inria.diverse.melange.examples.metamodels.compositefsm" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=fr.inria.diverse.melange.examples.metamodels.exhaustive" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=fr.inria.diverse.melange.examples.metamodels.fsm" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/fr.inria.diverse.melange.examples.metamodels.root" type="4"/>
+<item elementID="=fr.inria.diverse.melange.examples.metamodels.simplefsm" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=fr.inria.diverse.melange.examples.metamodels.subpackages" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=fr.inria.diverse.melange.examples.metamodels.timedfsm" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1421944031820_4" label="Tools" name="Tools">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/fr.inria.diverse.melange.tools.root" type="4"/>
+<item elementID="=fr.inria.diverse.melange.tools.xtext.testing" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+</workingSets>
