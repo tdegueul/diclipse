@@ -113,6 +113,7 @@ file_export_version=3.0
 /instance/org.eclipse.wst.sse.ui/useQuickDiffPrefPage=true
 /instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.polarsys.capella.common.tools.report.appenders.reportlogview.logview.selectionfilter/org.eclipse.ui.commands.radioState=ALL
 /instance/org.eclipse.ui/PROMPT_WHEN_SAVEABLE_STILL_OPEN=false
+/instance/org.eclipse.ui.editors/printMargin=true
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /configuration/org.eclipse.ui.ide/RECENT_WORKSPACES_PROTOCOL=3
 /instance/org.eclipse.epp.mpc.ui/CatalogDescriptor=http\://marketplace.eclipse.org
